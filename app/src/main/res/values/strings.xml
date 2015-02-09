@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EZ\'s Place Horse Alert</string>
+    <string name="action_settings">Settings</string>
+    <string name="debug_angles">Current inclination is</string>
+    <string name="calling_now">Calling now!</string>
+    <string name="sms_now">Sending SMS now!</string>
+    <string name="calling" formatted="false">Calling nr. %d to %s</string>
+    <string name="sms_to" formatted="false">SMS nr. %d to %s</string>
+    <string name="is_down">%s is down!</string>
+    <string name="ok">Ok</string>
+    <string name="calling_in">Calling in %d sec.</string>
+    <string name="sms">%s is down!</string>
+    <string name="is_up">%s is on his legs again!</string>
+    <string name="pref_title_delay_between_calls">Delay between calls</string>
+    <string name="pref_default_delay_between_calls">30</string>
+    <string name="pref_title_nr_of_calls">Number of calls</string>
+    <string name="pref_default_nr_of_calls">3</string>
+    <string name="pref_title_debug">Debug</string>
+    <string name="pref_title_sms">Send sms to mobile</string>
+
+    <bool name="pref_default_debug">false</bool>
+    <bool name="pref_default_sms">false</bool>
+
+    <string name="title_activity_events">Events log</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_events">Events</string>
+    <string name="action_events_clear">Clear events</string>
+
+</resources>
